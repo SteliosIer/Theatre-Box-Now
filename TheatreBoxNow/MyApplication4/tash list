@@ -1,0 +1,23 @@
+[33mb6f4a49[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: commit: merge back and frontend
+[33m5ec3b9e[m HEAD@{1}: reset: moving to HEAD
+[33m5ec3b9e[m HEAD@{2}: checkout: moving from backend to master
+[33m17e4d01[m[33m ([m[1;31morigin/backend[m[33m, [m[1;32mbackend[m[33m)[m HEAD@{3}: reset: moving to HEAD
+[33m17e4d01[m[33m ([m[1;31morigin/backend[m[33m, [m[1;32mbackend[m[33m)[m HEAD@{4}: pull: Fast-forward
+[33m3e1ada6[m HEAD@{5}: checkout: moving from master to backend
+[33m5ec3b9e[m HEAD@{6}: commit: commit nnn
+[33mfeb9f05[m HEAD@{7}: checkout: moving from backend to master
+[33m3e1ada6[m HEAD@{8}: reset: moving to HEAD
+[33m3e1ada6[m HEAD@{9}: checkout: moving from master to backend
+[33mfeb9f05[m HEAD@{10}: commit: commit before switching
+[33md47a0ad[m HEAD@{11}: commit: commit before switching
+[33m6e2227b[m HEAD@{12}: pull: Merge made by the 'ort' strategy.
+[33mb4e1ff5[m HEAD@{13}: commit: new files added frontedd
+[33m93809ef[m HEAD@{14}: commit: new files added fronted
+[33mc603194[m HEAD@{15}: pull: Fast-forward
+[33m3b552df[m HEAD@{16}: commit: new files addeda
+[33m7bad6b0[m HEAD@{17}: commit: new files added
+[33mbc24942[m HEAD@{18}: commit: build file commited
+[33m6ab2570[m HEAD@{19}: reset: moving to HEAD
+[33m6ab2570[m HEAD@{20}: commit (merge): initial commit
+[33mb30dc4f[m HEAD@{21}: commit: initial commit
+[33ma90cda0[m HEAD@{22}: commit (initial): initial commit

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/MenuFragment">
+
+    <fragment
+        android:id="@+id/MenuFragment"
+        android:name= "com.example.myapplication4.ui.MenuFragment"
+        android:label="@string/MenuFragment"
+        tools:layout="@layout/menu_fragment">
+
+        <action
+            android:id="@+id/action_MenuFragment_to_ChatbotFragment"
+            app:destination="@id/ChatbotFragment" />
+        <action
+            android:id="@+id/action_MenuFragment_to_InfoFragment"
+            app:destination="@id/InfoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ChatbotFragment"
+        android:name="com.example.myapplication4.ui.chatbot.ChatbotFragment"
+        android:label="@string/ChatbotFragment"
+        tools:layout="@layout/chatbot_fragment">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/InfoFragment"
+        android:name="com.example.myapplication4.ui.InfoFragment"
+        android:label="@string/InfoFragment"
+        tools:layout="@layout/info_fragment">
+
+    </fragment>
+</navigation>

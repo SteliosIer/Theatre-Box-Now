@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="inforamtion_text">
+        Theatre Box is an innovative mobile and web application designed to simplify the process
+        of booking tickets for your favorite theatre performances.
+        At the heart of Theatre Box  is a powerful AI-driven chatbot that guides users through
+        the entire reservation process with ease and convenience.
+        Simply start a conversation with the bot, and it will assist you in browsing
+        available shows, checking seat availability, and securing your tickets—all in just a few taps.
+        Note that only one ticket can be booked at a time so be careful!
+    </string>
+
+</resources>
